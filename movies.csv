@@ -1,0 +1,11 @@
+movieId,title,genres
+1,The Matrix,Action|Sci-Fi
+2,John Wick,Action|Thriller
+3,Toy Story,Animation|Comedy|Family
+4,Finding Nemo,Animation|Adventure|Family
+5,The Lion King,Animation|Drama|Family
+6,Avengers: Endgame,Action|Adventure|Sci-Fi
+7,Inception,Action|Thriller|Sci-Fi
+8,Shrek,Animation|Comedy|Family
+9,Interstellar,Adventure|Drama|Sci-Fi
+10,Gladiator,Action|Drama|Adventure
